@@ -23,4 +23,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyuktha258&" alt="samyuktha258" /></p>
 !--
+**Samyuktha258/Samyuktha258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Learning Data Analytics and exploring real-world data projects.
+- 👯 I’m looking to collaborate on  Data Analytics
+  - 🤔 I’m looking for help with Python,SQL,Excel,Power BI and Data Visualization.
+- 💬 Ask me about Data Analytics.
+- 📫 How to reach me: samyukthavgaikwad@gmail.com.
+
+-->
