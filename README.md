@@ -26,8 +26,8 @@
 
 - 🔭 I’m currently working on Learning Data Analytics and exploring real-world data projects.
 - 👯 I’m looking to collaborate on  Data Analytics
-  - 🤔 I’m looking for help with Python,SQL,Excel,Power BI and Data Visualization.
+- 🤔 I’m looking for help with Python,SQL,Excel,Power BI and Data Visualization.
 - 💬 Ask me about Data Analytics.
 - 📫 How to reach me: samyukthavgaikwad@gmail.com.
 
--->
+
